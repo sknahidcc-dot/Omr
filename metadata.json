@@ -1,0 +1,6 @@
+{
+  "name": "RIP OMR",
+  "description": "Smart OMR scanner, evaluation system, and student performance analyzer with PDF generation and QR key sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
